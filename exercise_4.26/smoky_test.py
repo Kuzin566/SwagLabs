@@ -7,7 +7,7 @@ from selenium import webdriver
 from main import Product_1, Operation
 from selenium.webdriver.common.by import By
 
-print("Приветсвую тебя в нашем интеренет магащине")
+print("Приветсвую тебя в нашем интеренет магазине")
 print("Выберите один из следующих товаров и укажите его номер\n1 : Sauce Labs Backpack\n2 : Sauce Labs Bike Light\n3 : Sauce Labs Bolt T-Shirt\n4 : Sauce Labs Fleece Jacket\n5 : Sauce Labs Onesie\n6 : Test.allTheThings() T-Shirt (Red)\n")
 
 product = input()
